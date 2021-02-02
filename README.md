@@ -1,5 +1,4 @@
-### ![header](https://capsule-render.vercel.app/api?type=wave&&color=gradient&height=300&section=header&text=JJ%20SungHyun&fontSize=90)
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+### ![header](https://capsule-render.vercel.app/api?type=wave&&color=gradient&height=300&section=header&text=JJ%20SungHyun&fontSize=90&animation=fadeIn)
 
 :heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart:
 
