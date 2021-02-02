@@ -4,7 +4,7 @@
 
 My name is SungHyun!
 
-I'm the CEO of Minjeong Co.
+I'm the CEO of Google Co.
 
 Welcome!! :smile:
 
