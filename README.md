@@ -10,7 +10,7 @@ My name is SungHyun! :smile:
 
 :sunny: State: Maybe I'm in love :heart:
 
-![header](https://capsule-render.vercel.app/api?type=wave&&color=gradient&height=300&section=footer&animation=fadeIn&rotate=180)
+![header](https://capsule-render.vercel.app/api?type=wave&&color=gradient&height=300&section=footer&text=See%20You~&fontSize=90&animation=fadeIn&rotate=180)
 <!--
 **SKT-T1-BUSH/SKT-T1-BUSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
