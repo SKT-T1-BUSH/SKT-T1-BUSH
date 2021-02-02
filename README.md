@@ -2,7 +2,7 @@
 
 :heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart:
 
-My name is SungHyun! :simple_smile:
+My name is SungHyun! :smile:
 
 :pray: My major: Medic (?)
 
