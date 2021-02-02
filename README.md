@@ -2,13 +2,11 @@
 
 :heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart:
 
-My name is SungHyun! :smile:
+My name is SungHyun!
 
-:pray: My major: Medic (?)
+I'm the CEO of Minjeong Co.
 
-:ghost: Skills: C++ / HardWare
-
-:sunny: State: Maybe I'm in love :heart:
+Welcome!! :smile:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&&color=gradient&height=300&section=footer&text=See%20You~&rotate=180&fontSize=90&animation=fadeIn&rotate=180)
 <!--
