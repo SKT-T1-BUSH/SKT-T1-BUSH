@@ -7,6 +7,8 @@ My name is SungHyun! :smile:
 :pray: My major: Medic (?)
 
 :ghost: Skills: C++ / HardWare
+
+:sunny: State: Maybe I'm in love :heart:
 <!--
 **SKT-T1-BUSH/SKT-T1-BUSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
