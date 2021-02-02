@@ -1,6 +1,12 @@
 ### ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JJ%20SungHyun&fontSize=90)
 
 :heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart::green_heart::heart::yellow_heart::purple_heart::blue_heart:
+
+My name is SungHyun! :simple_smile:
+
+:pray: My major: Medic (?)
+
+:ghost: Skills: C++ / HardWare
 <!--
 **SKT-T1-BUSH/SKT-T1-BUSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
